@@ -6,6 +6,8 @@
     - create a new repo
 
 - how to clone a repo
+    - click on the green - code button in the repo in rhs
+    - copy the https url
     - open cmd where you want to clone the repo, type in `git clone url`
 
 - how to push to github
